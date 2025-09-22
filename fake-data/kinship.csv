@@ -1,0 +1,8 @@
+id;kinship_type;status_kinship
+1;Padre;ACTIVO
+2;Madre;ACTIVO
+3;Hermano;ACTIVO
+4;Hermana;ACTIVO
+5;Hijo;ACTIVO
+6;Hija;ACTIVO
+7;Cónyuge;INACTIVO

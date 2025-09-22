@@ -1,0 +1,6 @@
+id;initials;document_name;state_document_type
+1;CC;Cédula de Ciudadanía;ACTIVO
+2;CE;Cédula de Extranjería;ACTIVO
+3;PA;Pasaporte;ACTIVO
+4;TI;Tarjeta de Identidad;ACTIVO
+5;PPT;Permiso por Protección Temporal;ACTIVO
